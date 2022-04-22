@@ -1,8 +1,12 @@
 # 👋 Welcome to my github profile! I’m @tolliverdani
 
-I'm a current MSCS student at Northeastern University in Boston and I'm looking to showcase my background and some of my projects. So far I've learned these programming languages: Java, SQL, JavaScript, HTML, CSS, Python, R, C++, and C.
+I'm a current MSCS student at Northeastern University in Boston, MA. Here I am showcasing some of my projects.
 
 ## Project Highlights
+- [Art Collection Website](https://github.com/tolliverdani/web-dev-project), Web Development
+  - Currently building out website with React.js, NodeJS, Bootstrap, Redux, Netlify, Heroku, and MongoDB
+  - Website currently utilizes third-party REST API calls to Wikiart
+  - Created RESTful APIs that links user information to our internal database stored in MongoDB Atlas
 - [Timber](https://github.com/lilyguibessette/Timber), Mobile App Development
   - Developed an Android app with Java in a team of 3 to connect general contractors and homeowners
   - Led the UX/UI efforts with an emphasis on prototyping, layouts, custom styles, and app notifications
@@ -16,7 +20,7 @@ I'm a current MSCS student at Northeastern University in Boston and I'm looking 
   - Implemented graphics, animation, and GUI controls (play, pause, remove shapes)
 
 ## Favorite Courses (so far)
-- Web Development (in progress) - CSS/HTML & JavaScript & React
+- Web Development (in progress) - HTML/CSS, Javascript
 - Mobile App Development - Android/Java
 - Database Management Systems - SQL & R
 - Object-Oriented Design - Java
