@@ -1,6 +1,6 @@
 # 👋 Welcome to my github profile! I’m @tolliverdani
 
-I'm a current MSCS student at Northeastern University in Boston, MA. Here I am showcasing some of my projects.
+I'm a current MSCS student at Northeastern University in Boston, MA. Here are some of my projects:
 
 ## Project Highlights
 - [Art Collection Website](https://github.com/tolliverdani/web-dev-project), Web Development
@@ -26,7 +26,7 @@ I'm a current MSCS student at Northeastern University in Boston, MA. Here I am s
 - Database Management Systems - SQL & R
 - Object-Oriented Design - Java
 
-In the coming months I plan on contributing to open source projects, and adding more side projects to my portfolio so hit me up if you'd like to collaborate on anything.
+In the coming months I plan on contributing to open source projects and adding more side projects to my portfolio. DM if you'd like to collaborate on anything.
 
 <!---
 tolliverdani/tolliverdani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
