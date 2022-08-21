@@ -15,14 +15,12 @@ I'm a current MSCS student at Northeastern University in Boston, MA. Here are so
   - Designed and implemented a relational database with R and SQL 
   - App reads publication data in XML format and parses it into a relational database, allowing users to query on the data and run an analysis
   - Designed the database schema with UMLs, connected to an AWS RDS, and built fact tables
+- [Shortest Path on the MBTA](https://github.com/tolliverdani/5800-final-project), Algorithms (Python)
+  - Designed a program that runs a shortest path algorithm between two stations on Boston's train system - the MBTA.
+  - Implemented a custom graph structure with adjacency lists to represent the stations and their neighbors
+  - Retrieved station data from the MBTA open data API and combined it with bus line data from a CSV file
+  - Developed two versions of Dijkstra's algorithm to compare speed of nested loops vs. a heap data structure 
 - Easy Animator, Object Oriented Design (Java)
   - Developed an app with Java that reads and converts a text file into instructions to play an animation
   - Designed the app using the Model-View-Controller (MVC) architecture
   - Implemented graphics, animation, and GUI controls (play, pause, remove shapes)
-
-In the coming months I plan on adding more side projects to my portfolio. DM if you'd like to collaborate on anything.
-
-<!---
-tolliverdani/tolliverdani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
