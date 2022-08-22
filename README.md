@@ -5,8 +5,8 @@ I'm a current MSCS student at Northeastern University in Boston, MA. Here are so
 ## Project Highlights
 - [Art Collection Website](https://github.com/tolliverdani/web-dev-project), Web Development (Javascript, HTML/CSS, React)
   - Deployed a full-stack JS application with React/Redux front end, Node.js server design, and NoSQL database
-  - Design emphasized modularity and functional components with Hooks to manage states  
-  - Utilized a mix of third-party API calls to WikiArt and our own internal REST APIs to our MongoDB user data
+  - Developed MongoDB schemas and associated API RESTful endpoints to manage user information
+  -	Integrated third-party calls to WikiArt API to supplement data generated from website
 - [Timber](https://github.com/lilyguibessette/Timber), Mobile App Development (Android/Java)
   - Developed an Android app with Java in a team of 3 to connect general contractors and homeowners
   - Led the UX/UI efforts with an emphasis on prototyping, layouts, custom styles, and app notifications
