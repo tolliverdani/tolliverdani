@@ -3,7 +3,7 @@
 I'm a current MSCS student at Northeastern University in Boston, MA. Here are some of my projects:
 
 ## Project Highlights
-- [Art Collection Website (Final Project)](https://github.com/tolliverdani/web-dev-project), Web Development (Javascript, HTML/CSS, React)
+- [Art Collection Website (Final Project)](https://github.com/tolliverdani/CS5610-Web-Dev-Final-Project), Web Development (Javascript, HTML/CSS, React)
   - Deployed a full-stack JS application with React/Redux front end, Node.js server design, and NoSQL database
   - Developed MongoDB schemas and associated API RESTful endpoints to manage user information
   -	Integrated third-party calls to WikiArt API to supplement data generated from website
