@@ -12,9 +12,9 @@ I'm a current MSCS student at Northeastern University in Boston, MA. Here are so
   - Led the UX/UI efforts with an emphasis on prototyping, layouts, custom styles, and app notifications
   - Implemented GPS-based matching, tinder swiping mechanism, and an in-app messenger built on Firebase
 - [PubMed Database](https://github.com/nziegler87/CS5200Practicum2), Database Management Systems (SQL & R)
-  - Designed and implemented a relational database with R and SQL 
-  - App reads publication data in XML format and parses it into a relational database, allowing users to query on the data and run an analysis
-  - Designed the database schema with UMLs, connected to an AWS RDS, and built fact tables
+  - Designed and implemented a relational database for publication data originally stored in XML format 
+  - Parsed, cleaned, and transformed the data in RStudio with R and SQL code chunks
+  - Designed the database schema with UMLs, connected to an AWS RDS, and built a star schema for easy analysis
 - [Shortest Path on the MBTA](https://github.com/tolliverdani/5800-final-project), Algorithms (Python)
   - Designed a program that runs a shortest path algorithm between two stations on Boston's train system - the MBTA.
   - Implemented a custom graph structure with adjacency lists to represent the stations and their neighbors
