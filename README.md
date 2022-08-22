@@ -18,7 +18,7 @@ I'm a current MSCS student at Northeastern University in Boston, MA. Here are so
 - [Bird Strikes (Practicum 1)](https://github.com/nziegler87/CS5200-Design-Implement-Relational-Database), Database Management Systems (SQL & R)
   - Reviewed and analyzed FAA data on bird strikes to put into a relational database in BCNF
   - Cleaned, transformed, and loaded data into AWS RDS using R Studio
-- [Shortest Path on the MBTA (Final Project)](https://github.com/tolliverdani/5800-final-project), Algorithms (Python)
+- [Shortest Path on the MBTA (Final Project)](https://github.com/tolliverdani/CS5800-Shortest-Path-on-the-MBTA), Algorithms (Python)
   - Designed a program that runs a shortest path algorithm between two stations on Boston's train system - the MBTA.
   - Implemented a custom graph structure with adjacency lists to represent the stations and their neighbors
   - Retrieved station data from the MBTA open data API and combined it with bus line data from a CSV file
