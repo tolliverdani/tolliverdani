@@ -27,3 +27,4 @@ I'm a current MSCS student at Northeastern University in Boston, MA. Here are so
   - Developed an app with Java that reads and converts a text file into instructions to play an animation
   - Designed the app using the Model-View-Controller (MVC) architecture
   - Implemented graphics, animation, and GUI controls (play, pause, remove shapes)
+- [Marble Solitaire Game (Project)](https://github.com/tolliverdani/CS5004-Marble-Solitaire-Game), Object Oriented Design (Java)
