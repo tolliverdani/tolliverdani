@@ -23,7 +23,7 @@ I'm a current MSCS student at Northeastern University in Boston, MA. Here are so
   - Implemented a custom graph structure with adjacency lists to represent the stations and their neighbors
   - Retrieved station data from the MBTA open data API and combined it with bus line data from a CSV file
   - Developed two versions of Dijkstra's algorithm to compare speed of nested loops vs. a heap data structure 
-- [Easy Animator (Final Project)](), Object Oriented Design (Java)
+- [Easy Animator (Final Project)](https://github.com/nziegler87/OOD-Final-Project), Object Oriented Design (Java)
   - Developed an app with Java that reads and converts a text file into instructions to play an animation
   - Designed the app using the Model-View-Controller (MVC) architecture
   - Implemented graphics, animation, and GUI controls (play, pause, remove shapes)
