@@ -29,11 +29,8 @@ I'm a current MSCS student at Northeastern University in Boston, MA. Here are so
   - Implemented graphics, animation, and GUI controls (play, pause, remove shapes)
 - [Marble Solitaire Game (Project)](https://github.com/tolliverdani/CS5004-Marble-Solitaire-Game), Object Oriented Design (Java)
 
-## Planned and/or on-going Individual Projects
-- The good ol' personal / portfolio website
-- Redesigning a website I dislike
-  - I really just wanted a reason to practice using Python/Django because in our course for Web Dev we used Javascript and React/Node
-  - The inspiration for this website is coming from other competitors and new website's best practices
+## Individual Projects (planned and/or on-going)
+- The good ol' personal portfolio website
 - Light-weight charitable giving app
   - This idea was inspired by my time searching for an out-of-the-box solution for a charitable giving software provider at my previous job
   - The scope of this light-weight MVP includes:
@@ -51,3 +48,6 @@ I'm a current MSCS student at Northeastern University in Boston, MA. Here are so
     - Map list of locations onto a google maps API
     - Enable users to click through to articles from the map
     - Enable a read functionality
+- Redesigning a website I dislike
+  - I really just wanted a reason to practice using Python/Django because in our course for Web Dev we used Javascript and React/Node
+  - The inspiration for this website is coming from other competitors and new website's best practices
