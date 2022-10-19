@@ -2,7 +2,7 @@
 
 I'm a current MSCS student at Northeastern University in Boston, MA. Here are some of my projects:
 
-## Project Highlights
+## School Projects
 - [Art Collection Website (Final Project)](https://github.com/tolliverdani/CS5610-Art-Collector-Website), Web Development (Javascript, HTML/CSS, React)
   - Deployed a full-stack JS application with React/Redux front end, Node.js server design, and NoSQL database
   - Developed MongoDB schemas and associated API RESTful endpoints to manage user information
@@ -28,3 +28,26 @@ I'm a current MSCS student at Northeastern University in Boston, MA. Here are so
   - Designed the app using the Model-View-Controller (MVC) architecture
   - Implemented graphics, animation, and GUI controls (play, pause, remove shapes)
 - [Marble Solitaire Game (Project)](https://github.com/tolliverdani/CS5004-Marble-Solitaire-Game), Object Oriented Design (Java)
+
+## Planned and/or on-going Individual Projects
+- The good ol' personal / portfolio website
+- Redesigning a website I dislike
+  - I really just wanted a reason to practice using Python/Django because in our course for Web Dev we used Javascript and React/Node
+  - The inspiration for this website is coming from other competitors and new website's best practices
+- Light-weight charitable giving app
+  - This idea was inspired by my time searching for an out-of-the-box solution for a charitable giving software provider at my previous job
+  - The scope of this light-weight MVP includes:
+    - Set up a connection to ProPublica's API
+    - Create a db schema to store employee information
+    - Search for non-profits by EIN
+    - Filter eligibility criteria
+    - Record employee transactions
+    - Output monthly "invoices"
+- Wikipedia Geolocation city explorer
+  - I got this idea while I was traveling in Spain and looking for audio guides - why not harness data from Wikipedia to generate city-specific guides
+  - The scope of this project includes:
+    - Connect to wikipedia's geosearch
+    - Create a db schema to store user information
+    - Map list of locations onto a google maps API
+    - Enable users to click through to articles from the map
+    - Enable a read functionality
